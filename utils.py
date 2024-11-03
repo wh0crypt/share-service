@@ -13,7 +13,7 @@ def check_env(env_vars : Tuple[str]) -> None:
     env_vars (Tuple[str]): A tuple of environment variable names to check.
 
   Returns:
-      None
+    None
   """
   error = False
   
